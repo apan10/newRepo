@@ -1,2 +1,2 @@
 # newRepo
-TestRepo
+TestRepo - This is a test repo
